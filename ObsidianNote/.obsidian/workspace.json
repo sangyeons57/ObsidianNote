@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "16ec9648c04a7b33",
+    "type": "split",
+    "children": [
+      {
+        "id": "187edf2a142cb139",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bba37085c8450ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android ActivityResultLaucncher.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6c6cf8d28f51a00",
+    "type": "split",
+    "children": [
+      {
+        "id": "040957e1a7da9c6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0e6f97a70b55753",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0ac85df8d4f3867",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8771e579f115747b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d652e531760ffb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f84c2fe847db40dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f959bd0ed27999c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Android ActivityResultLaucncher.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "379d65f3f1a7ebb8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Android ActivityResultLaucncher.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32b956b14e94f246",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4f25aa0628ff5890",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Android ActivityResultLaucncher.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "3bba37085c8450ae",
+  "lastOpenFiles": [
+    "AppsScript 를 Android Java 에서 사용하기.md",
+    "Android 실행아이콘 수정.md",
+    "Android 라디오 이벤트 받기.md",
+    "Android URI.md",
+    "Android Spinner.md",
+    "Android Java onClick.md",
+    "Android Intent.md",
+    "Android Implicit Intents.md",
+    "Android getIdentifier.md",
+    "Android Bundle savedInstanceState.md",
+    "Android ActivityResultLaucncher.md",
+    "포인터와 운영체제 관계.md",
+    "포인터와 배열.md",
+    "퍼즐게임 만들기 방법.md",
+    "어소드락 강의 11화 비트연산자.md",
+    "어소드락 강의 3화 정수형 자료형.md",
+    "어소드락 21화 구조체.md",
+    "안드로이드 자바 생명주기.md",
+    "싱글톤.md",
+    "선형보간 LERP.md",
+    "생각노트 2023-02-09.md",
+    "생각노트 2023-02-07.md",
+    "생각노트 2023-02-04.md",
+    "Unity 에서 github 사용방법.md",
+    "Unity Tmp, using에 존제하지 않는 문제.md",
+    "Unity SerializeField.md"
+  ]
+}
