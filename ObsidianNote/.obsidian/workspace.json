@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android ActivityResultLaucncher.md",
+                "file": "퍼즐게임 만들기 방법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ef7bafa0d860e80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSharp  Dictionary 정렬.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f54bd0a33197346b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "유니티 shader Tags.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android ActivityResultLaucncher.md",
+                "file": "유니티 shader Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android ActivityResultLaucncher.md",
+                "file": "유니티 shader Tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android ActivityResultLaucncher.md"
+                "file": "유니티 shader Tags.md"
               }
             }
           }
@@ -146,8 +171,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3bba37085c8450ae",
+  "active": "f54bd0a33197346b",
   "lastOpenFiles": [
+    "퍼즐게임 만들기 방법.md",
+    "유니티 shader Tags.md",
+    "CSharp  Dictionary 정렬.md",
+    "안드로이드 자바 생명주기.md",
+    "생각노트 2023-02-09.md",
+    "Android ActivityResultLaucncher.md",
     "AppsScript 를 Android Java 에서 사용하기.md",
     "Android 실행아이콘 수정.md",
     "Android 라디오 이벤트 받기.md",
@@ -158,21 +189,15 @@
     "Android Implicit Intents.md",
     "Android getIdentifier.md",
     "Android Bundle savedInstanceState.md",
-    "Android ActivityResultLaucncher.md",
     "포인터와 운영체제 관계.md",
     "포인터와 배열.md",
-    "퍼즐게임 만들기 방법.md",
     "어소드락 강의 11화 비트연산자.md",
     "어소드락 강의 3화 정수형 자료형.md",
     "어소드락 21화 구조체.md",
-    "안드로이드 자바 생명주기.md",
     "싱글톤.md",
     "선형보간 LERP.md",
-    "생각노트 2023-02-09.md",
     "생각노트 2023-02-07.md",
     "생각노트 2023-02-04.md",
-    "Unity 에서 github 사용방법.md",
-    "Unity Tmp, using에 존제하지 않는 문제.md",
-    "Unity SerializeField.md"
+    "Unity 에서 github 사용방법.md"
   ]
 }
