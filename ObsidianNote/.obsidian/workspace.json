@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "197d94af05f8786f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HLSL Unlit shader- ZWrite Off.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d7b710815c662f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HLSL Alpha Blend.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "유니티 shader Tags.md",
+                "file": "HLSL Alpha Blend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "유니티 shader Tags.md",
+                "file": "HLSL Alpha Blend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "유니티 shader Tags.md"
+                "file": "HLSL Alpha Blend.md"
               }
             }
           }
@@ -171,11 +195,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f54bd0a33197346b",
+  "active": "2d7b710815c662f3",
   "lastOpenFiles": [
-    "퍼즐게임 만들기 방법.md",
+    "HLSL Unlit shader- ZWrite Off.md",
     "유니티 shader Tags.md",
+    "HLSL Alpha Blend.md",
     "CSharp  Dictionary 정렬.md",
+    "퍼즐게임 만들기 방법.md",
     "안드로이드 자바 생명주기.md",
     "생각노트 2023-02-09.md",
     "Android ActivityResultLaucncher.md",
@@ -196,8 +222,6 @@
     "어소드락 21화 구조체.md",
     "싱글톤.md",
     "선형보간 LERP.md",
-    "생각노트 2023-02-07.md",
-    "생각노트 2023-02-04.md",
-    "Unity 에서 github 사용방법.md"
+    "생각노트 2023-02-07.md"
   ]
 }
