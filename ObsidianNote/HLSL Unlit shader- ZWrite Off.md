@@ -1,4 +1,4 @@
-#HLSL #unity #zwrite
+#HLSL #unity #zwrite #shader 
 z-Buffer : 깊이버퍼 : z축이라는뜻 아닐까?
 
 ZWrite 깊이버퍼를 "쓰는것을" 끈다

@@ -66,9 +66,105 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47b1345368c7b82c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HLSL 현재픽셀 버리기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f021138025ef0cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unity shader providing vertex data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b847142dbba524dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HLSL shader최적화.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0422ec15c8df5523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH 선형보간 수식.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fe64baada667bcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "학교수업 기획 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa5be62d8b474c6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HLSL 내장함수 built-in.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb2cc6ba14818896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unity voxel 복셀.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61fe70b5c6251667",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "내적과 외적.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -134,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HLSL Alpha Blend.md",
+                "file": "unity voxel 복셀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HLSL Alpha Blend.md",
+                "file": "unity voxel 복셀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HLSL Alpha Blend.md"
+                "file": "unity voxel 복셀.md"
               }
             }
           }
@@ -195,11 +291,24 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2d7b710815c662f3",
+  "active": "bb2cc6ba14818896",
   "lastOpenFiles": [
+    "HLSL 내장함수 built-in.md",
+    "unity voxel 복셀.md",
+    "MATH 선형보간 수식.md",
+    "학교수업 기획 1.md",
+    "HLSL shader최적화.md",
+    "unity shader providing vertex data.md",
+    "HLSL 현재픽셀 버리기.md",
+    "내적과 외적.md",
+    "탄젠트공간 tagent space.md",
+    "파이와 디그리 그리고 라디안.md",
+    "HLSL vertex와 positionHCS.md",
+    "HLSL SAMPLE_TEXTURE2D와 tex2D의 차이.md",
+    "HLSL 쉐이더 설명.md",
     "HLSL Unlit shader- ZWrite Off.md",
-    "유니티 shader Tags.md",
     "HLSL Alpha Blend.md",
+    "유니티 shader Tags.md",
     "CSharp  Dictionary 정렬.md",
     "퍼즐게임 만들기 방법.md",
     "안드로이드 자바 생명주기.md",
@@ -209,19 +318,6 @@
     "Android 실행아이콘 수정.md",
     "Android 라디오 이벤트 받기.md",
     "Android URI.md",
-    "Android Spinner.md",
-    "Android Java onClick.md",
-    "Android Intent.md",
-    "Android Implicit Intents.md",
-    "Android getIdentifier.md",
-    "Android Bundle savedInstanceState.md",
-    "포인터와 운영체제 관계.md",
-    "포인터와 배열.md",
-    "어소드락 강의 11화 비트연산자.md",
-    "어소드락 강의 3화 정수형 자료형.md",
-    "어소드락 21화 구조체.md",
-    "싱글톤.md",
-    "선형보간 LERP.md",
-    "생각노트 2023-02-07.md"
+    "Android Spinner.md"
   ]
 }

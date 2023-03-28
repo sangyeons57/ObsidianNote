@@ -1,4 +1,4 @@
-#HLSl #unity #Blend #transparent
+#HLSl #unity #Blend #transparent #shader 
 기본값에 다른값을 계산하는 계산식을 작성
 
 알파블렌딩은 파이프라인에 마지막 단계에서 사용한다.
