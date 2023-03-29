@@ -14,6 +14,8 @@ vetex 여러개가 연결되어서 face가 한개 말들어 진다
 vertices =  (0,0), (1,0), (0,1), (0,1)
 triangles = 0, 1, 2 , 2, 1, 3
 
+uv vertices와 1대1 대칭 되는거 같다.
+
 이렇게 표현한다
 
 아마도 vertices는 vertex의 위치를 triangles는 vertex의 순서를 표현하는거 같다.
