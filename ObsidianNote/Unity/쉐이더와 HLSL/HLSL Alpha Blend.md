@@ -1,4 +1,4 @@
-#language/HLSL  #unity  #unity/shader/transparent #unity/shader/Blend 
+#language/HLSL   #unity/shader/transparent #unity/shader/Blend 
 기본값에 다른값을 계산하는 계산식을 작성
 
 알파블렌딩은 파이프라인에 마지막 단계에서 사용한다.
@@ -19,7 +19,7 @@ Blend {srcFactor} {dstFactor}
 
 ### 명령어 정리
 Source는 계산된 값을 말하고 Destinatio은 이미 화면에 표시된 값을 의미한다
-그러니까 src는 현제 코드이고 des는 이미그려진놈
+그러니까 src는 현제 코드이고 des는 이미그려진놈 (배)
 즉, 여러 오브젝트중에 이 오브젝트보다 먼저 그련진 놈들을 말한다.
 따라서 src현제 내 오브젝트를 말하게 된
 
@@ -50,6 +50,6 @@ Blend One One: 포토샵에 Add같은 효과
 해결방법은 큰 오브젝트를 작게 나누는 방법이 있고 예) 구름, 건물
 
 다른방법으로는 Z-Buffer를 사용하지 않아서 그냥 덮어서 픽셀을 그리는거다
-[[HLSL Unlit shader- ZWrite Off]]
+[[HLSL Unlit shader- ZBuffer과 ZWrite Off와 ZTest 와 ZRead]]
 하지만 이방법은 overDraw가 발생한다 
 overdDraw는 한 픽셀에 두번이상 그리게 되는 경우이다.
