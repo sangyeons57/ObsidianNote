@@ -8,127 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7be209d64c1f491f",
+            "id": "1c66c22dd0bbe4dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트/Clone Minecraft/Project - Minecraft 2023-04-04 +3일차 정리.md",
+                "file": "MATH/펄린노이즈 만들기 HLSL.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "efb4f08bc88840c9",
+            "id": "862af8165591206e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트/Clone Minecraft/Project -Minecraft 2023-04-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d54efe3b063bbf9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity/쉐이더와 HLSL/유니티 shader Tags.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46d4622347322caa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity/쉐이더와 HLSL/HLSL Unlit shader- ZBuffer과 ZWrite Off와 ZTest 와 ZRead.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f02e1316065e572d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/MATH 코사인 COS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "061d2e03ab5ab17d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로젝트/Clone Minecraft/Project - Minecraft 2023-03-29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02f2b8093a3e06a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPP/포인터와 배열.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43ff85b71b18ef28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity/쉐이더와 HLSL/HLSL LOD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f36018e2bff31121",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity/쉐이더와 HLSL/HLSL Pass Tag.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fb324b78d1d97a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/MATH 코사인 COS.md",
+                "file": "Unity/쉐이더와 HLSL/HLSL 내장 수학 함수.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/쉐이더와 HLSL/HLSL Unlit shader- ZBuffer과 ZWrite Off와 ZTest 와 ZRead.md",
+                "file": "MATH/펄린노이즈 만들기 HLSL.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -211,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/쉐이더와 HLSL/HLSL Unlit shader- ZBuffer과 ZWrite Off와 ZTest 와 ZRead.md",
+                "file": "MATH/펄린노이즈 만들기 HLSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/쉐이더와 HLSL/HLSL Unlit shader- ZBuffer과 ZWrite Off와 ZTest 와 ZRead.md"
+                "file": "MATH/펄린노이즈 만들기 HLSL.md"
               }
             }
           }
@@ -255,34 +158,34 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "46d4622347322caa",
+  "active": "1c66c22dd0bbe4dd",
   "lastOpenFiles": [
-    "Unity/쉐이더와 HLSL/HLSL vertex와 positionHCS.md",
-    "Unity/쉐이더와 HLSL/HLSL Alpha Blend.md",
-    "Unity/쉐이더와 HLSL/HLSL 현재픽셀 버리기.md",
+    "Unity/쉐이더와 HLSL/HLSL 내장 수학 함수.md",
+    "MATH/펄린노이즈 만들기 HLSL.md",
+    "Unity/쉐이더와 HLSL/무제 파일.md",
+    "Unity/쉐이더와 HLSL/HLSL texture텍스처링.md",
+    "Unity/쉐이더와 HLSL/HLSL 내장함수 built-in.md",
     "Unity/쉐이더와 HLSL/HLSL 쉐이더 설명.md",
-    "Unity/쉐이더와 HLSL/HLSL Unlit shader- ZBuffer과 ZWrite Off와 ZTest 와 ZRead.md",
-    "Unity/쉐이더와 HLSL/HLSL LOD.md",
     "Unity/쉐이더와 HLSL/HLSL CUll 보이는면의 변화.md",
-    "Unity/쉐이더와 HLSL/유니티 shader Tags.md",
-    "Unity/쉐이더와 HLSL/HLSL Pass Tag.md",
-    "Unity/쉐이더와 HLSL/HLSL SAMPLE_TEXTURE2D와 tex2D의 차이.md",
+    "Unity/쉐이더와 HLSL/HLSL 현재픽셀 버리기.md",
+    "Unity/쉐이더와 HLSL/HLSL vertex와 positionHCS.md",
+    "프로젝트/Clone Minecraft/Project - Minecraft 2023-04-02 정리.md",
+    "MATH/MATH 선형보간 수식.md",
+    "MATH/2D 펄린노이즈 만들기.md",
+    "프로젝트/Clone Minecraft/Project -Minecraft 2023-04-09.md",
+    "프로젝트/Clone Minecraft/Project - Minecraft 2023-04-04 +3일차 정리.md",
+    "Unity/쉐이더와 HLSL/HLSL Unlit shader- ZBuffer과 ZWrite Off와 ZTest 와 ZRead.md",
     "Unity/쉐이더와 HLSL/HLSL shader최적화.md",
+    "Unity/쉐이더와 HLSL/HLSL Pass Tag.md",
+    "Unity/쉐이더와 HLSL/유니티 shader Tags.md",
+    "Unity/쉐이더와 HLSL/HLSL LOD.md",
+    "Unity/쉐이더와 HLSL/HLSL SAMPLE_TEXTURE2D와 tex2D의 차이.md",
+    "Unity/쉐이더와 HLSL/HLSL Alpha Blend.md",
     "Unity/Unity Attribute.md",
     "Unity/Unity Quaternion, Euler angle.md",
     "Unity/Unity Jump System.md",
     "Unity/Unity Photon.md",
     "Unity/Unity scriptable object.md",
-    "프로젝트/Clone Minecraft/Project - Minecraft 2023-04-04 +3일차 정리.md",
-    "프로젝트/Clone Minecraft/Project - Minecraft 2023-04-02 정리.md",
-    "Java/Android/Android 라디오 이벤트 받기.md",
-    "MATH/파이와 디그리 그리고 라디안.md",
-    "Unity/Unity 에서 github 사용방법.md",
-    "프로젝트/Clone Minecraft/Project -Minecraft 2023-04-09.md",
-    "Unity/unity voxel 복셀 최적화1.md",
-    "Unity/unity voxel 복셀 내부데이터 삭제1.md",
-    "Unity/unity voxel 복셀.md",
-    "생각노트/생각노트 2023-04-13.md",
     "Unity/유니티서버/Photon",
     "Unity/유니티서버",
     "Unity/CSharp",
