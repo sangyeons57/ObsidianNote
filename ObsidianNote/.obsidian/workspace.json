@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "53e992825f84b7d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "포폴 만들어보기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f45b1e264b22069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git hub 사용방법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdc66ce5e4d40b88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "포폴 만들어보기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "862af8165591206e",
             "type": "leaf",
             "state": {
@@ -31,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH/펄린노이즈 만들기 HLSL.md",
+                "file": "Git hub 사용방법.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH/펄린노이즈 만들기 HLSL.md",
+                "file": "Git hub 사용방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH/펄린노이즈 만들기 HLSL.md"
+                "file": "Git hub 사용방법.md"
               }
             }
           }
@@ -158,10 +195,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1c66c22dd0bbe4dd",
+  "active": "6f45b1e264b22069",
   "lastOpenFiles": [
-    "Unity/쉐이더와 HLSL/HLSL 내장 수학 함수.md",
+    "포폴 만들어보기.md",
+    "Git hub 사용방법.md",
+    "기획/상점 만들기.md",
+    "기획/퍼즐게임 만들기 방법.md",
     "MATH/펄린노이즈 만들기 HLSL.md",
+    "Unity/쉐이더와 HLSL/HLSL 내장 수학 함수.md",
     "Unity/쉐이더와 HLSL/무제 파일.md",
     "Unity/쉐이더와 HLSL/HLSL texture텍스처링.md",
     "Unity/쉐이더와 HLSL/HLSL 내장함수 built-in.md",
@@ -182,10 +223,6 @@
     "Unity/쉐이더와 HLSL/HLSL SAMPLE_TEXTURE2D와 tex2D의 차이.md",
     "Unity/쉐이더와 HLSL/HLSL Alpha Blend.md",
     "Unity/Unity Attribute.md",
-    "Unity/Unity Quaternion, Euler angle.md",
-    "Unity/Unity Jump System.md",
-    "Unity/Unity Photon.md",
-    "Unity/Unity scriptable object.md",
     "Unity/유니티서버/Photon",
     "Unity/유니티서버",
     "Unity/CSharp",
