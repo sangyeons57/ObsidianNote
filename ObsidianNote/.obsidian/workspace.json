@@ -109,19 +109,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/CSharp/CSharp generic where.md",
+                "file": "Unity/Unity Camera Stacking.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "89206eebb9408543",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
               }
             }
           },
@@ -138,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -167,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "where",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,8 +182,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/CSharp/CSharp generic where.md",
+                "file": "Unity/Unity Camera Stacking.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -230,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/CSharp/CSharp generic where.md",
+                "file": "Unity/Unity Camera Stacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/CSharp/CSharp generic where.md"
+                "file": "Unity/Unity Camera Stacking.md"
               }
             }
           }
@@ -274,8 +263,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "89206eebb9408543",
+  "active": "a7454999423ecf21",
   "lastOpenFiles": [
+    "Unity/Unity Camera Stacking.md",
     "싱글톤 활용.md",
     "Unity/CSharp/CSharp generic where.md",
     "Unity/CSharp/CSharp delegate 델리게이트.md",
@@ -304,7 +294,6 @@
     "Unity/쉐이더와 HLSL/HLSL SAMPLE_TEXTURE2D와 tex2D의 차이.md",
     "Unity/쉐이더와 HLSL/HLSL Pass Tag.md",
     "Unity/쉐이더와 HLSL/HLSL shader최적화.md",
-    "Unity/쉐이더와 HLSL/HLSL texture텍스처링.md",
     "왁타버스/다이스 오브 왁타버스/기획",
     "왁타버스/다이스 오브 왁타버스/프로그래밍",
     "왁타버스/다이스 오브 왁타버스",
