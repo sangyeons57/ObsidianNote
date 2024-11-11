@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/단일 지식/소캣 통신.md",
+                "file": "팀노바/과제/2024-07-20 과제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "소캣 통신"
+              "title": "2024-07-20 과제"
             }
           }
         ],
@@ -206,10 +206,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/단일 지식/소캣 통신.md"
+                "file": "팀노바/과제/2024-07-20 과제.md"
               },
               "icon": "lucide-list",
-              "title": "소캣 통신 개요"
+              "title": "2024-07-20 과제 개요"
             }
           },
           {
@@ -242,6 +242,7 @@
   },
   "active": "b603ca8775d24778",
   "lastOpenFiles": [
+    "프로그래밍/단일 지식/소캣 통신.md",
     "AI/img 성성/Stable Diffusion/Negative Prompt.md",
     "AI/프롬프트 작성 방법론/프롬프트 작성 방법론.md",
     "AI/img 성성/Stable Diffusion/Prompt 작성방법.md",
@@ -267,7 +268,6 @@
     "팀노바/과제/2024-09-13 과제.md",
     "프로그래밍/단일 지식/aws 용량 다참 문제 (syslog 문제).md",
     "팀노바/과제/2024-09-06 과제.md",
-    "프로그래밍/단일 지식/소캣 통신.md",
     "프로그래밍/Unity/VRChat/사용자 식별 시스탬.md",
     "생각노트/생각노트 2024-08-02.md",
     "프로그래밍/단일 지식/http 통신.md",
