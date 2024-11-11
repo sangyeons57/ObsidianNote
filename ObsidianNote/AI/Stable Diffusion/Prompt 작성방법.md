@@ -1,3 +1,5 @@
+다운 리소스 사이트: https://civitai.com/
+
 prompt에는
 Positive Prompt :  AI가 해당 요소를 포함하도록 하는 Propmpt
 Negative Prompt : AI가 해당 요소를 배제하도록 하는  Prompt
