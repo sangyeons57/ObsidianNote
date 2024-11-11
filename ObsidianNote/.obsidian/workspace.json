@@ -62,19 +62,9 @@
               "icon": "lucide-file",
               "title": "소캣 통신"
             }
-          },
-          {
-            "id": "640763face9f2cb7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,13 +205,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "프로그래밍/단일 지식/소캣 통신.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "소캣 통신 개요"
+            }
+          },
+          {
+            "id": "652d9127200666e7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -234,10 +236,11 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "640763face9f2cb7",
+  "active": "b603ca8775d24778",
   "lastOpenFiles": [
     "AI/img 성성/Stable Diffusion/Negative Prompt.md",
     "AI/프롬프트 작성 방법론/프롬프트 작성 방법론.md",
