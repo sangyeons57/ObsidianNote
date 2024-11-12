@@ -8,3 +8,22 @@ Stable Diffusion의 **Checkpoint**는 모델의 특정 학습 상태를 저장�
 스타일 설정에 주요하다
 
 체크포인트 사용할떄 비율이 다르면 문제가 발생할수있다.
+### Checkpoint 설정 방법
+
+1. **Checkpoint 파일 로드하기**:
+    
+    - Stable Diffusion Web UI에서 Checkpoint를 설정하려면 먼저 원하는 Checkpoint 파일을 다운로드하여 `models/Stable-diffusion` 폴더에 저장해야 합니다.
+    - Web UI의 설정 메뉴에서 원하는 Checkpoint를 선택할 수 있으며, UI에서 선택한 Checkpoint에 따라 이미지 생성 스타일이나 세부 사항이 변경됩니다.
+2. **해상도와 Checkpoint의 호환성 확인**:
+    
+    - 모델의 학습 데이터와 이미지 해상도가 다를 경우 왜곡이나 품질 저하가 생길 수 있으므로, **해상도 설정**을 Checkpoint가 훈련된 해상도에 가깝게 조정하면 좋습니다.
+3. **세부 설정 조정**:
+    
+    - **CFG Scale** (Classifier-Free Guidance Scale), **Sampling Steps**, **Sampler Method** 등의 설정을 통해 Checkpoint의 출력을 세밀하게 조정할 수 있습니다.
+    - ControlNet이나 LoRA와 같은 확장 기능이 지원되는 경우, 추가 설정을 통해 더욱 복잡한 이미지 생성이 가능합니다.
+
+
+
+
+### CheckPoint 종류
+- 

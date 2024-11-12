@@ -37,3 +37,9 @@ VAE는 주로 `.pt` 파일 형식으로 제공되며, 다음과 같은 사이트
 3. **Web UI에서 선택**: Web UI의 설정에서 설치된 VAE를 선택할 수 있습니다. VAE는 원하는 스타일과 목적에 맞춰 변경 가능합니다.
 
 VAE를 통해 이미지 색감과 세부 디테일을 강화할 수 있으며, 목표하는 스타일에 따라 적절한 VAE를 선택하면 더욱 높은 퀄리티의 이미지를 얻을 수 있습니다.
+
+
+### VAE 종류
+- [xlVAEC_f2](https://civitai.com/models/152040/xlvaec): 
+- [sdVAEForAnime_v10](https://civitai.com/models/217931/sd-vae-for-anime)
+- 
