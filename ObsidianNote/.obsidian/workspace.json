@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Stable Diffusion/ControlNet.md",
+                "file": "생각노트/생각노트 2024-11-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ControlNet"
+              "title": "생각노트 2024-11-12"
             }
           },
           {
@@ -242,8 +242,11 @@
   },
   "active": "2f2284b74e95ebcc",
   "lastOpenFiles": [
-    "AI/LLM Prompt/Chat GPT 아이디어 구상 v1.1  프롬프트 1.md",
+    "생각노트/생각노트 2024-11-09.md",
+    "생각노트/생각노트 2024-11-12.md",
+    "생각노트/생각노트 2023-02-04.md",
     "AI/Stable Diffusion/ControlNet.md",
+    "AI/LLM Prompt/Chat GPT 아이디어 구상 v1.1  프롬프트 1.md",
     "AI/LLM Prompt/Chat GPT 아이디어 구상 v1  프롬프트.md",
     "AI/Stable Diffusion/Prompt 작성방법.md",
     "AI/프롬프트 작성 방법론/프롬프트 작성 방법론.md",
@@ -263,7 +266,6 @@
     "AI/Stable Diffusion",
     "MATH/좌표평면의 물체를 회전시킬떄 가능한 경우의수.md",
     "AI/img 성성",
-    "생각노트/생각노트 2024-11-09.md",
     "AI/LLM Prompt",
     "AI/프롬프트 작성 방법론",
     "팀노바/피드백/2024-11-07 팀노바 피드백.md",
@@ -274,8 +276,6 @@
     "팀노바/과제/2024-10-04 과제.md",
     "팀노바/과제/2024-09-27 과제.md",
     "팀노바/과제/2024-08-30 과제.md",
-    "프로그래밍/Unity/쉐이더와 HLSL/HLSL Unlit shader- ZBuffer과 ZWrite Off와 ZTest 와 ZRead.md",
-    "팀노바/과제/2024-05-23 과제.md",
     "프로그래밍/Unity/VRChat",
     "Pasted image 20240529191204.png",
     "프로그래밍/공부/리스트",
