@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/text 생성/Chat GPT 아이디어 구상 v1  프롬프트.md",
+                "file": "AI/프롬프트 작성 방법론/프롬프트 작성 방법론.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chat GPT 아이디어 구상 v1  프롬프트"
+              "title": "프롬프트 작성 방법론"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Stable Diffusion/Prompt 작성방법.md",
+                "file": "AI/Stable Diffusion/ControlNet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt 작성방법"
+              "title": "ControlNet"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,12 +240,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0e6f97a70b55753",
+  "active": "2f2284b74e95ebcc",
   "lastOpenFiles": [
+    "AI/LLM Prompt/Chat GPT 아이디어 구상 v1.1  프롬프트 1.md",
+    "AI/Stable Diffusion/ControlNet.md",
+    "AI/LLM Prompt/Chat GPT 아이디어 구상 v1  프롬프트.md",
+    "AI/Stable Diffusion/Prompt 작성방법.md",
     "AI/프롬프트 작성 방법론/프롬프트 작성 방법론.md",
     "AI/Stable Diffusion/Upscaler.md",
     "AI/Stable Diffusion/Checkpoint.md",
-    "AI/Stable Diffusion/Prompt 작성방법.md",
     "AI/Stable Diffusion/Refiner.md",
     "AI/Stable Diffusion/Hires.fix.md",
     "Pasted image 20240529190552.png",
@@ -258,11 +261,10 @@
     "프로그래밍/단일 지식/소캣 통신.md",
     "AI/공부할거.md",
     "AI/Stable Diffusion",
-    "AI/text 생성/Chat GPT 아이디어 구상 v1  프롬프트.md",
     "MATH/좌표평면의 물체를 회전시킬떄 가능한 경우의수.md",
     "AI/img 성성",
     "생각노트/생각노트 2024-11-09.md",
-    "AI/text 생성",
+    "AI/LLM Prompt",
     "AI/프롬프트 작성 방법론",
     "팀노바/피드백/2024-11-07 팀노바 피드백.md",
     "AI",
@@ -274,8 +276,6 @@
     "팀노바/과제/2024-08-30 과제.md",
     "프로그래밍/Unity/쉐이더와 HLSL/HLSL Unlit shader- ZBuffer과 ZWrite Off와 ZTest 와 ZRead.md",
     "팀노바/과제/2024-05-23 과제.md",
-    "팀노바/과제/2024-09-13 과제.md",
-    "프로그래밍/단일 지식/aws 용량 다참 문제 (syslog 문제).md",
     "프로그래밍/Unity/VRChat",
     "Pasted image 20240529191204.png",
     "프로그래밍/공부/리스트",
