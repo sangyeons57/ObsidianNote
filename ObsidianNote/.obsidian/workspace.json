@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "생각노트/생각노트 2024-11-12.md",
+                "file": "AI/Stable Diffusion/Prompt/Negative Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "생각노트 2024-11-12"
+              "title": "Negative Prompt"
             }
           },
           {
@@ -256,6 +256,9 @@
   },
   "active": "940dad9ada456bef",
   "lastOpenFiles": [
+    "AI/Stable Diffusion/VAE.md",
+    "팀노바/피드백/2024-11-07 팀노바 피드백.md",
+    "생각노트/생각노트 2024-11-12.md",
     "AI/Stable Diffusion/Prompt 작성방법.md",
     "AI/Stable Diffusion/Prompt/Negative Prompt.md",
     "AI/Stable Diffusion/LoRA.md",
@@ -264,8 +267,6 @@
     "AI/Stable Diffusion/Checkpoint.md",
     "AI/Stable Diffusion/Upscaler.md",
     "AI/Stable Diffusion/Refiner.md",
-    "AI/Stable Diffusion/VAE.md",
-    "생각노트/생각노트 2024-11-12.md",
     "생각노트/생각노트 2024-11-09.md",
     "생각노트/생각노트 2023-02-04.md",
     "AI/LLM Prompt/Chat GPT 아이디어 구상 v1.1  프롬프트 1.md",
@@ -283,7 +284,6 @@
     "AI/img 성성",
     "AI/LLM Prompt",
     "AI/프롬프트 작성 방법론",
-    "팀노바/피드백/2024-11-07 팀노바 피드백.md",
     "AI",
     "AI사용방법",
     "팀노바/과제/2024-10-18 과제.md",
