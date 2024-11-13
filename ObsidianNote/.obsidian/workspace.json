@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Stable Diffusion/ComfyUI.md",
+                "file": "AI/Stable Diffusion/Canny.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ComfyUI"
+              "title": "Canny"
             }
           },
           {
@@ -241,10 +241,11 @@
   },
   "active": "8f6eba4afb75f8a5",
   "lastOpenFiles": [
-    "MATH/좌표평면의 물체를 회전시킬떄 가능한 경우의수.md",
-    "AI/Stable Diffusion/ComfyUI.md",
-    "AI/프롬프트 작성 방법론/프롬프트 작성 방법론.md",
     "AI/Stable Diffusion/Prompt/Negative Prompt.md",
+    "AI/Stable Diffusion/Canny.md",
+    "AI/Stable Diffusion/ComfyUI.md",
+    "MATH/좌표평면의 물체를 회전시킬떄 가능한 경우의수.md",
+    "AI/프롬프트 작성 방법론/프롬프트 작성 방법론.md",
     "AI/Stable Diffusion/VAE.md",
     "팀노바/피드백/2024-11-07 팀노바 피드백.md",
     "생각노트/생각노트 2024-11-12.md",
@@ -274,7 +275,6 @@
     "AI사용방법",
     "팀노바/과제/2024-10-18 과제.md",
     "팀노바/과제/2024-10-11 과제.md",
-    "팀노바/과제/2024-10-04 과제.md",
     "프로그래밍/Unity/VRChat",
     "Pasted image 20240529191204.png",
     "프로그래밍/공부/리스트",
