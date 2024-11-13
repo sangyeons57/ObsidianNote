@@ -62,23 +62,8 @@
               "icon": "lucide-file",
               "title": "Negative Prompt"
             }
-          },
-          {
-            "id": "b603ca8775d24778",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "팀노바/과제/2024-07-20 과제.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-07-20 과제"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,13 +239,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "940dad9ada456bef",
+  "active": "8f6eba4afb75f8a5",
   "lastOpenFiles": [
+    "AI/프롬프트 작성 방법론/프롬프트 작성 방법론.md",
+    "AI/Stable Diffusion/Prompt/Negative Prompt.md",
     "AI/Stable Diffusion/VAE.md",
     "팀노바/피드백/2024-11-07 팀노바 피드백.md",
     "생각노트/생각노트 2024-11-12.md",
     "AI/Stable Diffusion/Prompt 작성방법.md",
-    "AI/Stable Diffusion/Prompt/Negative Prompt.md",
     "AI/Stable Diffusion/LoRA.md",
     "AI/Stable Diffusion/Hires.fix.md",
     "AI/Stable Diffusion/ControlNet.md",
@@ -271,7 +257,6 @@
     "생각노트/생각노트 2023-02-04.md",
     "AI/LLM Prompt/Chat GPT 아이디어 구상 v1.1  프롬프트 1.md",
     "AI/LLM Prompt/Chat GPT 아이디어 구상 v1  프롬프트.md",
-    "AI/프롬프트 작성 방법론/프롬프트 작성 방법론.md",
     "Pasted image 20240529190552.png",
     "AI/img 성성/무제 파일.md",
     "AI/img 성성/Stable Diffusion/무제 파일.md",
