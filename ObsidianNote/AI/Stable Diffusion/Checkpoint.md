@@ -25,5 +25,10 @@ Stable Diffusion의 **Checkpoint**는 모델의 특정 학습 상태를 저장�
 
 
 
-### CheckPoint 종류
-- 
+# CheckPoint 종류
+##  Realistic Vision V6.0 B1
+[civitAI](https://civitai.com/models/4201/realistic-vision-v60-b1)
+**Sampler = DPM SDE++ Karras or another / 4-6+ steps  
+CFG Scale = 1.5-2.0 (the lower the value, the more mutations, but the less contrast)**
+
+**I also recommend using ADetailer for generation (some examples were generated with ADetailer, this will be noted in the image comments).**
