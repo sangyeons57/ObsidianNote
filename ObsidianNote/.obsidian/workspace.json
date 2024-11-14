@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -254,10 +254,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "940dad9ada456bef",
+  "active": "8221cfdfd2539ee3",
   "lastOpenFiles": [
-    "나 정의서.md",
     "팀노바/피드백/2024-11-14 팀노바 피드백.md",
+    "나 정의서.md",
     "AI/Stable Diffusion/LoRA.md",
     "AI/Stable Diffusion/Canny.md",
     "AI/Stable Diffusion/Checkpoint.md",
