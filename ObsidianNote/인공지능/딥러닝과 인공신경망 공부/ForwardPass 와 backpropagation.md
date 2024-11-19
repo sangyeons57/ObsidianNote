@@ -83,8 +83,18 @@ $$
 
 
 $$
-{ \delta L \over \delta a} = { \delta (ax) \over \delta a } . { \delta L \over \delta (ax) } = { \delta (ax) \over \delta ax } \times 6 
+{ \delta L \over \delta a} = { \delta (ax) \over \delta a } . { \delta L \over \delta (ax) } = { \delta (ax) \over \delta a } \times 6 
 $$
 
 라는 식이 나오는데
 먼저  x = 2 , a = 3이라고 정의 했기 때문에
+$$
+{ \delta (ax) \over \delta a } \times 6 = x \times 6 = 12
+$$
+
+$$
+{ \delta L \over \delta x} = { \delta (ax) \over \delta x } . { \delta L \over \delta (ax) } = { \delta (ax) \over \delta x } \times 6 = a \times 6 = 18 
+$$
+
+으로 구해서 역전파를 마칠수있다
+여기에다가 적용률 혹은 학습률을 넣어서 해당 오차만큼 파라미터에 적용하게 된다.
