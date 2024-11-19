@@ -44,6 +44,7 @@ MSE = Mean Squared Error (평균 제곱 오차) 라는 방식이 있는데
 $$
 (ax - y)^2 = 9 = Loss
 $$
+$$ Loss =  L$$
 라고 볼수 있다.
 
 이떄 오차값의 미분값은
@@ -52,15 +53,38 @@ $$ \delta Loss = 1 $$
 $$ {\delta Loss \over \delta Loss} = 1 $$
 이라고 할수 있다.
 
-다음으로
-$$ { \delta L \over \delta (ax-y)} $$
-위에서 봤던
+다음으로 ax - y 값을  chain rule에 의거해 구하려면
+$$ { \delta L \over \delta ((ax-y)^2)} $$
+를 해야하는데 
 $$ 
 ax - y = u
 $$
+$$ 
+L = u ^ 2
+$$
 라고 한다면
 
+Loss에 대한 u의 미분 값은
+$$ { \delta L \over \delta (u)} = { \delta (u^2) \over \delta (u)} = 2u = 2(ax -y) = 2 \times 3 = 6 $$
+이라고 할수 있다.
+다음으로 체인룰에 의거해 ax와 y를 구하면
+
 $$
-u^2
+{ \delta L \over \delta (ax)} = { \delta u \over \delta ax } . { \delta L \over \delta u } = { \delta u \over \delta ax } \times 6 = 1 \times 6 = 6
+$$
+으로 구할수있고
+
+
+$$
+{ \delta L \over \delta y} = { \delta u \over \delta y } . { \delta L \over \delta u } = { \delta u \over \delta y } \times 6 = -1 \times 6 = -6
+$$
+$$
 $$
 
+
+$$
+{ \delta L \over \delta a} = { \delta (ax) \over \delta a } . { \delta L \over \delta (ax) } = { \delta (ax) \over \delta ax } \times 6 
+$$
+
+라는 식이 나오는데
+먼저  x = 2 , a = 3이라고 정의 했기 때문에
