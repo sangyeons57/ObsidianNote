@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -264,10 +264,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f22684fbbf793b9c",
+  "active": "940dad9ada456bef",
   "lastOpenFiles": [
-    "인공지능/딥러닝과 인공신경망 공부/ForwardPass 와 backpropagation.md",
     "인공지능/딥러닝과 인공신경망 공부/오차역전파 1.md",
+    "인공지능/딥러닝과 인공신경망 공부/ForwardPass 와 backpropagation.md",
     "인공지능/프롬프트 작성 방법론/프롬프트 작성 방법론.md",
     "나 정의서.md",
     "인공지능/LLM Prompt/Chat GPT 공부세팅  프롬프트 1.md",
