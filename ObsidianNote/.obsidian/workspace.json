@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인공지능/딥러닝과 인공신경망 공부/ForwardPass 와 backpropagation.md",
+                "file": "팀노바/피드백/2024-11-21 팀노바 피드백.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ForwardPass 와 backpropagation"
+              "title": "2024-11-21 팀노바 피드백"
             }
           },
           {
@@ -266,8 +266,9 @@
   },
   "active": "940dad9ada456bef",
   "lastOpenFiles": [
-    "인공지능/딥러닝과 인공신경망 공부/오차역전파 1.md",
     "인공지능/딥러닝과 인공신경망 공부/ForwardPass 와 backpropagation.md",
+    "팀노바/피드백/2024-11-21 팀노바 피드백.md",
+    "인공지능/딥러닝과 인공신경망 공부/오차역전파 1.md",
     "인공지능/프롬프트 작성 방법론/프롬프트 작성 방법론.md",
     "나 정의서.md",
     "인공지능/LLM Prompt/Chat GPT 공부세팅  프롬프트 1.md",
@@ -294,7 +295,6 @@
     "인공지능/Stable Diffusion/Hires.fix.md",
     "인공지능/Stable Diffusion/Upscaler.md",
     "인공지능/Stable Diffusion/Refiner.md",
-    "생각노트/생각노트 2024-11-09.md",
     "인공지능/Stable Diffusion/Prompt",
     "인공지능/Stable Diffusion",
     "AI/img 성성",
