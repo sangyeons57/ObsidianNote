@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "팀노바/피드백/2024-11-21 팀노바 피드백.md",
+                "file": "인공지능/LLM Prompt/Chat GPT 공부세팅  프롬프트 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-21 팀노바 피드백"
+              "title": "Chat GPT 공부세팅  프롬프트 1"
             }
           },
           {
@@ -266,17 +266,17 @@
   },
   "active": "940dad9ada456bef",
   "lastOpenFiles": [
-    "인공지능/딥러닝과 인공신경망 공부/ForwardPass 와 backpropagation.md",
-    "팀노바/피드백/2024-11-21 팀노바 피드백.md",
-    "인공지능/딥러닝과 인공신경망 공부/오차역전파 1.md",
+    "인공지능/LLM Prompt/Chat GPT , StableDiffusion질문 셋업.md",
     "인공지능/프롬프트 작성 방법론/프롬프트 작성 방법론.md",
+    "팀노바/피드백/2024-11-21 팀노바 피드백.md",
+    "인공지능/딥러닝과 인공신경망 공부/ForwardPass 와 backpropagation.md",
+    "인공지능/딥러닝과 인공신경망 공부/오차역전파 1.md",
     "나 정의서.md",
     "인공지능/LLM Prompt/Chat GPT 공부세팅  프롬프트 1.md",
     "인공지능/딥러닝과 인공신경망 공부/오차역전파.md",
     "인공지능/DNN",
     "인공지능/LLM Prompt/Chat GPT 아이디어 구상 v1  프롬프트.md",
     "인공지능/Stable Diffusion/LoRA.md",
-    "인공지능/LLM Prompt/Chat GPT , StableDiffusion질문 셋업.md",
     "MATH/Unity Quariterion 곱하기.md",
     "생각노트/생각노트 2024-11-16.md",
     "팀노바/피드백/2024-11-14 팀노바 피드백.md",
