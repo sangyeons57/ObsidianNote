@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인공지능/딥러닝과 인공신경망 공부/오차역전파 1.md",
+                "file": "생각노트/생각노트 2024-11-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "오차역전파 1"
+              "title": "생각노트 2024-11-26"
             }
           },
           {
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -264,18 +264,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "940dad9ada456bef",
+  "active": "f22684fbbf793b9c",
   "lastOpenFiles": [
+    "인공지능/딥러닝과 인공신경망 공부/오차역전파 1.md",
+    "생각노트/생각노트 2024-11-26.md",
+    "인공지능/LLM Prompt/ChatGPT 시스탬 프롬프트.md",
     "인공지능/프롬프트 작성 방법론/프롬프트 작성 방법론.md",
     "기획/한국 문화 사업 사이트.md",
     "2024-11-23.md",
-    "인공지능/LLM Prompt/ChatGPT 시스탬 프롬프트.md",
     "인공지능/LLM Prompt/Chat GPT 아이디어 구상 v1  프롬프트.md",
     "인공지능/LLM Prompt/Chat GPT 공부세팅  프롬프트 1.md",
     "인공지능/LLM Prompt/Chat GPT , StableDiffusion질문 셋업.md",
     "팀노바/피드백/2024-11-21 팀노바 피드백.md",
     "인공지능/딥러닝과 인공신경망 공부/ForwardPass 와 backpropagation.md",
-    "인공지능/딥러닝과 인공신경망 공부/오차역전파 1.md",
     "나 정의서.md",
     "인공지능/딥러닝과 인공신경망 공부/오차역전파.md",
     "인공지능/DNN",
@@ -294,7 +295,6 @@
     "인공지능/Stable Diffusion/VAE.md",
     "팀노바/피드백/2024-11-07 팀노바 피드백.md",
     "생각노트/생각노트 2024-11-12.md",
-    "인공지능/Stable Diffusion/Prompt 작성방법.md",
     "인공지능/Stable Diffusion/Prompt",
     "인공지능/Stable Diffusion",
     "AI/img 성성",
