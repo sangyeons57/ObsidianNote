@@ -41,3 +41,9 @@ SeriallizeObject는 원본객체의 데이터를 수정하고 즉시 반영하�
 - 데이터 동기화
 등의 이유를 해당 메서드를 값변경후 호출해야한다.
 
+
+### Player Boundary
+사용자를 특정 조건에 따라 입장 불가의 경계를 만들어내는 기능
+
+#### Inspcetor
+Auto Boundary Mode: 자동으로 
