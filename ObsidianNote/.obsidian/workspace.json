@@ -100,9 +100,23 @@
               "icon": "lucide-file",
               "title": "AI알고리즘"
             }
+          },
+          {
+            "id": "51e37b441a67e56e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "블록체인/블록체인.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "블록체인"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -225,20 +239,6 @@
             }
           },
           {
-            "id": "22bc65da6a7c778d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "팀노바/과제/2024-10-18 과제.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "2024-10-18 과제의 나가는 링크"
-            }
-          },
-          {
             "id": "b4e7d3c606f60b76",
             "type": "leaf",
             "state": {
@@ -261,7 +261,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -278,14 +278,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0e6f97a70b55753",
+  "active": "51e37b441a67e56e",
   "lastOpenFiles": [
-    "나 정의서.md",
+    "블록체인/크로스 체인.md",
+    "블록체인/블록체인.md",
+    "블록체인/NFT.md",
     "올해 돌아보기 탬플릿.md",
+    "블록체인",
+    "무제 파일.md",
+    "인공지능/머신러닝과 인공신경망 공부/AI알고리즘.md",
+    "나 정의서.md",
     "인공지능/머신러닝과 인공신경망 공부/가중치 초기화.md",
     "인공지능/머신러닝과 인공신경망 공부/오차역전파.md",
     "인공지능/머신러닝과 인공신경망 공부/손실함수.md",
-    "인공지능/머신러닝과 인공신경망 공부/AI알고리즘.md",
     "인공지능/강화학습/딥러닝 공부_01.md",
     "인공지능/강화학습/DQN만들어보기/DQN만들어보기.md",
     "생각노트/생각노트 2024-12-05.md",
@@ -304,11 +309,7 @@
     "인공지능/LLM Prompt/Chat GPT 아이디어 구상 v1  프롬프트.md",
     "인공지능/LLM Prompt/Chat GPT 공부세팅  프롬프트 1.md",
     "인공지능/LLM Prompt/Chat GPT , StableDiffusion질문 셋업.md",
-    "팀노바/피드백/2024-11-21 팀노바 피드백.md",
-    "인공지능/머신러닝과 인공신경망 공부/ForwardPass 와 backpropagation.md",
     "인공지능/DNN",
-    "인공지능/Stable Diffusion/LoRA.md",
-    "MATH/Unity Quariterion 곱하기.md",
     "Pasted image 20240529190552.png",
     "AI/Stable Diffusion/무제 폴더",
     "인공지능/Stable Diffusion/Prompt",
@@ -316,7 +317,6 @@
     "AI/img 성성",
     "인공지능/LLM Prompt",
     "인공지능/프롬프트 작성 방법론",
-    "인공지능/AI",
     "Pasted image 20240529191204.png",
     "Pasted image 20240529191622.png"
   ]
