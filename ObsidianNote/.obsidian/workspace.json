@@ -107,12 +107,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "블록체인/블록체인.md",
+                "file": "인공지능/머신러닝과 인공신경망 공부/간단한 머신러닝 예제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "블록체인"
+              "title": "간단한 머신러닝 예제"
             }
           }
         ],
@@ -259,6 +259,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0804923034d8a1b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "인공지능/머신러닝과 인공신경망 공부/간단한 머신러닝 예제.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "간단한 머신러닝 예제의 나가는 링크"
+            }
           }
         ],
         "currentTab": 4
@@ -280,8 +294,9 @@
   },
   "active": "51e37b441a67e56e",
   "lastOpenFiles": [
-    "블록체인/크로스 체인.md",
     "블록체인/블록체인.md",
+    "인공지능/머신러닝과 인공신경망 공부/간단한 머신러닝 예제.md",
+    "블록체인/크로스 체인.md",
     "블록체인/NFT.md",
     "올해 돌아보기 탬플릿.md",
     "블록체인",
@@ -308,7 +323,6 @@
     "2024-11-23.md",
     "인공지능/LLM Prompt/Chat GPT 아이디어 구상 v1  프롬프트.md",
     "인공지능/LLM Prompt/Chat GPT 공부세팅  프롬프트 1.md",
-    "인공지능/LLM Prompt/Chat GPT , StableDiffusion질문 셋업.md",
     "인공지능/DNN",
     "Pasted image 20240529190552.png",
     "AI/Stable Diffusion/무제 폴더",
