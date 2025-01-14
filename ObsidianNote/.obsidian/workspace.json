@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인공지능/머신러닝과 인공신경망 공부/간단한 머신러닝 예제.md",
+                "file": "인공지능/머신러닝과 인공신경망 공부/활성화함수.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "간단한 머신러닝 예제"
+              "title": "활성화함수"
             }
           },
           {
@@ -292,10 +292,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0e6f97a70b55753",
+  "active": "8221cfdfd2539ee3",
   "lastOpenFiles": [
-    "인공지능/머신러닝과 인공신경망 공부/AI알고리즘.md",
     "인공지능/머신러닝과 인공신경망 공부/오차역전파 1.md",
+    "인공지능/머신러닝과 인공신경망 공부/활성화함수.md",
+    "인공지능/머신러닝과 인공신경망 공부/AI알고리즘.md",
     "인공지능/머신러닝과 인공신경망 공부/간단한 머신러닝 예제.md",
     "인공지능/머신러닝과 인공신경망 공부/배치 정규화.md",
     "인공지능/머신러닝과 인공신경망 공부/손실함수.md",
@@ -322,7 +323,6 @@
     "인공지능/LLM Prompt/ChatGPT 시스탬 프롬프트.md",
     "인공지능/프롬프트 작성 방법론/프롬프트 작성 방법론.md",
     "기획/한국 문화 사업 사이트.md",
-    "2024-11-23.md",
     "인공지능/DNN",
     "Pasted image 20240529190552.png",
     "AI/Stable Diffusion/무제 폴더",
